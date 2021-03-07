@@ -1,0 +1,1 @@
+x = oPlayer.x/2 + oEnemy.x/2;
